@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me : [email](nadasentheolin@gmail.com "This is my email")
+- 📫 How to reach me : [email](mailto:nadasentheolin@gmail.com)
 
 
 
