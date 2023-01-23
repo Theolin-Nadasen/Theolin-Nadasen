@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Theolin-Nadasen
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning Android App Development
+- 💞️ I’m looking to collaborate on fun and creative projects!
 - 📫 How to reach me : [email](mailto:nadasentheolin@gmail.com)
 
 
